@@ -1,4 +1,4 @@
 my:
   greeting: Hello world from new config server
   list:
-    values: one,two,three
+    values: one,two,three,four
